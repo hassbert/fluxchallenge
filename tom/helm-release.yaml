@@ -19,5 +19,5 @@ spec:
       interval: 1m
   values:
     wordpressUsername: tom
-    wordpressPassword: "supersecure"
+    wordpressPassword: ${PASSWORD}
     wordpressBlogName: "Managed Services Challenges with flux"
