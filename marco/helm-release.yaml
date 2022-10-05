@@ -19,5 +19,5 @@ spec:
    interval: 1m
  values:
   wordpressUsername: marco
-  wordpressPassword: ${PASSWORD}
+  wordpressPassword: ${PASSWORD_MLA}
   wordpressBlogName: "Managed Services Challenges with flux"
